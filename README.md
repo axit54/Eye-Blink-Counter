@@ -1,2 +1,2 @@
 # Eye-Blink-Counter
-Counts the number of times an eye blinks in realtime
+Used Haar Feature-based Cascade Classifiers to detect eye location and updates count each time an eye blinks in realtime. 
